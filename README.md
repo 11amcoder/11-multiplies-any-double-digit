@@ -1,5 +1,8 @@
 # 11-multiplies-any-double-digit
-This is not a regular 11 * ?? multiplication. But in mental math, there is a way of doing multiplications quickly. I transformed that logic into code for fun and learning purpose. This code will do the multiplication of 11 with any double digit number.
+This is not a regular 11 * ?? multiplication. But in mental math, there is a way of doing multiplications quickly. I transformed that logic into code for fun and learning purpose. This code will do the multiplication of 11 with any double digit number using python.
+
+![python-logo-only](https://github.com/user-attachments/assets/7fd53589-a01f-4f2c-bfd7-eba06d7e8a29)
+
 
 For example:
 Let's say if the user has given an input as 99. Now usually the operation we need to perform is 11 * 99 = 1089. 
